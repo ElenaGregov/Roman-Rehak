@@ -1,0 +1,121 @@
+{
+  "nav": {
+    "about": "About",
+    "aktuality": "News",
+    "gallery": "Gallery",
+    "technique": "Technique",
+    "exhibitions": "Exhibitions",
+     "media": "Media & Press",
+    "contact": "Contact"
+  },
+
+  "hero": {
+    "title": "Roman Řehák",
+    "subtitle": "Phone Art • Surreal Dreams from a Phone",
+    "button": "Explore Works"
+  },
+  "about": {
+    "title": "About the Artist",
+    "text1": "Roman Řehák is a Prague-based visual artist known for creating his entire oeuvre exclusively on a mobile phone — a technique called Phone Art.",
+    "text2": "His surreal, dreamlike compositions, often featuring beautiful women, are printed on canvas and luxury carpets. His works are part of prestigious private collections, including those of Pierce Brosnan and Karel Gott."
+  },
+
+  "aktuality": {
+    "title": "News & Announcements",
+    "subtitle": "Latest news and updates",
+    "readMore": "Read more",
+    "allNews": "View all news and announcements"
+  },
+  "announcements": [
+    {
+      "id": 1,
+      "image": "/img/gallery/1.png",
+      "date": "20. 5. 2025",
+      "category": "New Painting",
+      "title": "“Noční zpověď III” Completed",
+      "excerpt": "A new large-format work that took over 5 months to create. First presented at the vernissage on May 22."
+    },
+    {
+      "id": 2,
+      "image": "/img/aktuality/klafarna.jpg",
+      "date": "16. 5. 2026",
+      "category": "Vernissage",
+      "title": "Vernissage at Klafárna, Kladno",
+      "excerpt": "Official vernissage on May 16, 2026 at 5:00 PM. You are cordially invited."
+    },
+    {
+      "id": 3,
+      "image": "/img/aktuality/rub_lic.webp",
+      "date": "21. 3. 2025 - 25. 5. 2025",
+      "category": "Exhibition",
+      "title": "Rub & Líc, Kladno Castle Gallery",
+      "excerpt": "Unique exhibition “Rub & Líc” at the Kladno Castle Gallery until May 25, 2025."
+    },
+    {
+      "id": 4,
+      "image": "/img/aktuality/4.jpg",
+      "date": "7. 3. 2026",
+      "category": "New Painting",
+      "title": "“Painting Title” – New Large Format Work",
+      "excerpt": "Description of the painting and its inspiration."
+    }
+  ],
+
+  "gallery": {
+    "title": "Gallery"
+  },
+  "technique": {
+    "title": "Technique",
+    "text": "Phone Art — an original technique in which the artist creates works exclusively using mobile applications. Since 2021, he has also been printing large-format works on special textile substrates (carpets)."
+  },
+  "exhibitions": {
+    "title": "Selected Exhibitions"
+  },
+
+
+ "contact": {
+  "title": "Contact",
+  "subtitle": "Interested in cooperation, prints or commission? Write to me.",
+  "writeMessage": "Write a message",
+  "follow": "Or follow me on social media"
+},
+  
+
+  "media": {
+    "title": "Media & Press",
+    "subtitle": "What the media wrote about Roman Řehák and Phone Art",
+    "readArticle": "Read article",
+    "allArticles": "View all articles in the media",
+    "items": [
+      {
+        "title": "From phone to carpet. Unique works by artist Roman Řehák in Česká Třebová",
+        "source": "i60.cz",
+        "date": "2024",
+        "url": "https://www.i60.cz/clanek/detail/35027/z-mobilu-na-koberec-unikatni-dila-vytvarnika-romana-rehaka-v-ceske-trebove",
+        "image": "https://www.i60.cz/images/Foto-Marketa-Kolinska-03.jpg"
+      },
+      {
+        "title": "Roman Řehák's paintings were christened in Prague. He creates his works on a mobile phone",
+        "source": "Pražský deník",
+        "date": "2023",
+        "url": "https://prazsky.denik.cz/volny-cas/praha-krest-vystava-roman-rehak-20230719.html",
+        "image": "https://g.denik.cz/63/45/praha-krest-obrazy-vytvarnik-roman-rehak-wine-not-20230719-13_denik-galerie-800@2x.jpg"
+      },
+      {
+        "title": "Roman Řehák presented a new exhibition of paintings from a mobile phone. Felix Slováček performed at the vernissage",
+        "source": "Prazska.drbna.cz",
+        "date": "2022",
+        "url": "https://prazska.drbna.cz/roman-rehak-predstavil-novou-vystavu-obrazu-z-mobilu-na-vernisazi-zahral-felix-slovacek.html",
+        "image": "https://www.drbna.cz/files/drbna/images/photo-gallery/2022/01/12/size5-16419781231605-241-roman-rehak-predstavil-novou-vystavu-obrazu-z-mobilu-na-vernisazi-zahral-felix-slovacek.jpg"
+      },
+      {
+        "title": "Artist Roman Řehák presented a new work: The creation of Jan Tříska's portrait was a coincidence!",
+        "source": "Seznam Zprávy",
+        "date": "2018",
+        "url": "https://www.seznamzpravy.cz/clanek/vytvarnik-roman-rehak-predstavil-nove-dilo-vytvoreni-obrazu-jana-trisky-byla-nahoda-43262",
+        "image": "/img/news/news-1.png"
+      }
+    ]
+  }
+
+}

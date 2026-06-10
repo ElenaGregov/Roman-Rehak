@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "about": "O autorovi",
+    "aktuality": "Aktuality",
+    "gallery": "Galerie",
+    "technique": "Technika",
+    "exhibitions": "Výstavy",
+     "media": "Media & Tisk",
+    "contact": "Kontakt"
+
+  },
+
+
+  "hero": {
+    "title": "Roman Řehák",
+    "subtitle": "Phone Art • Surrealita z mobilu",
+    "button": "Prozkoumat díla"
+  },
+  "about": {
+    "title": "O autorovi",
+    "text1": "Roman Řehák je pražský výtvarník, který vytváří svá díla výhradně na mobilním telefonu – tzv. Phone Art.",
+    "text2": "Jeho surrealistické a snové kompozice, často s motivy krásných žen, jsou tištěny na plátno i na luxusní koberce. Jeho díla vlastní významné osobnosti včetně Pierce Brosnana nebo Karla Gotta."
+  },
+
+  
+  "aktuality": {
+    "title": "Události  & Oznámení",
+    "subtitle": "Aktuální události a novinky",
+    "readMore": "Číst více",
+    "allNews": "Zobrazit všechny aktuality a oznámení"
+  },
+
+
+  "announcements": [
+    {
+      "id": 1,
+      "image": "/img/gallery/1.png",
+      "date": "20. 5. 2025",
+      "category": "Nový obraz",
+      "title": "„Název obrazu“ – Nové velkoformátové dílo",
+      "excerpt": "Popis obrazu a inspirace."
+    },
+    {
+      "id": 2,
+      "image": "/img/aktuality/klafarna.jpg",
+      "date": "16. 5. 2026",
+      "category": "Vernisáž",
+      "title": "Vernisáž v Klafárně, Kladno",
+      "excerpt": "Oficiální vernisáž se koná 16. května 2026 v 17:00. Srdečně vás zveme."
+    },
+    {
+      "id": 3,
+      "image": "/img/aktuality/rub_lic.webp",
+      "date": "21. 3. 2025 - 25. 5. 2025",
+      "category": "Výstava",
+      "title": "Rub & Líc, Galerie Kladenského zámku",
+      "excerpt": "Unikátní výstava „Rub & Líc“ v Galerii Kladenského zámku. K vidění do 25. května 2025."
+    },
+    {
+      "id": 4,
+      "image": "/img/aktuality/4.jpg",
+      "date": "7. 3. 2026",
+      "category": "Nový obraz",
+      "title": "„Název obrazu“ – Nové velkoformátové dílo",
+      "excerpt": "Popis obrazu a inspirace."
+    }
+  ],
+
+
+  "gallery": { "title": "Galerie" },
+  "technique": {
+    "title": "Technika",
+    "text": "Phone Art – originální technika, při které autor vytváří díla výhradně pomocí mobilních aplikací. Od roku 2021 tiskne velkoformátová díla i na speciální textilní podklady (koberce)."
+  },
+
+  "exhibitions": 
+  { "title": "Vybrané výstavy" },
+  
+  
+ "contact": {
+  "title": "Kontakt",
+  "subtitle": "Máte zájem o spolupráci, tisk nebo zakázku? Napište mi.",
+  "writeMessage": "Napsat zprávu",
+  "follow": "Nebo mě sledujte na sociálních sítích"
+},
+ 
+
+  "media": {
+    "title": "Media & Press",
+    "subtitle": "Co o Romanu Řehákovi a Phone Artu napsala média",
+    "readArticle": "Číst článek",
+    "allArticles": "Zobrazit všechny články v médiích",
+    "items": [
+      {
+        "title": "Z mobilu na koberec. Unikátní díla výtvarníka Romana Řeháka v České Třebové",
+        "source": "i60.cz",
+        "date": "2024",
+        "url": "https://www.i60.cz/clanek/detail/35027/z-mobilu-na-koberec-unikatni-dila-vytvarnika-romana-rehaka-v-ceske-trebove",
+        "image": "https://www.i60.cz/images/Foto-Marketa-Kolinska-03.jpg"
+      },
+      {
+        "title": "V Praze pokřtili obrazy Romana Řeháka. Svá díla vytváří v mobilním telefonu",
+        "source": "Pražský deník",
+        "date": "2023",
+        "url": "https://prazsky.denik.cz/volny-cas/praha-krest-vystava-roman-rehak-20230719.html",
+        "image": "https://g.denik.cz/63/45/praha-krest-obrazy-vytvarnik-roman-rehak-wine-not-20230719-13_denik-galerie-800@2x.jpg"
+      },
+      {
+        "title": "Roman Řehák představil novou výstavu obrazů z mobilu. Na vernisáži zahrál Felix Slováček",
+        "source": "Prazska.drbna.cz",
+        "date": "2022",
+        "url": "https://prazska.drbna.cz/roman-rehak-predstavil-novou-vystavu-obrazu-z-mobilu-na-vernisazi-zahral-felix-slovacek.html",
+        "image": "https://www.drbna.cz/files/drbna/images/photo-gallery/2022/01/12/size5-16419781231605-241-roman-rehak-predstavil-novou-vystavu-obrazu-z-mobilu-na-vernisazi-zahral-felix-slovacek.jpg"
+      },
+      {
+        "title": "Výtvarník Roman Řehák představil nové dílo: Vytvoření obrazu Jana Třísky byla náhoda!",
+        "source": "Seznam Zprávy",
+        "date": "2018",
+        "url": "https://www.seznamzpravy.cz/clanek/vytvarnik-roman-rehak-predstavil-nove-dilo-vytvoreni-obrazu-jana-trisky-byla-nahoda-43262",
+        "image": "/img/news/news-1.png"
+      }
+    ]
+  }
+}
